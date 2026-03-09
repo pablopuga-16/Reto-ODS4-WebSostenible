@@ -1,13 +1,7 @@
 # Reto-ODS4-WebSostenible
-\## 1. Análisis del Problema y Sostenibilidad (Responsable: Alumno A)
-
-
-
+\## 1. Análisis del Problema y Sostenibilidad (Responsable: Alumno 
 \### El "Bug" Educativo
-
-> \[cite\_start]La brecha digital impide que estudiantes con conexiones lentas o dispositivos antiguos accedan a materiales de calidad, rompiendo la equidad del ODS 4. 
-
-
+> \[cite\_start]La brecha digital impide que estudiantes con conexiones lentas o dispositivos antiguos accedan a materiales de calidad, rompiendo la equidad del ODS 4.
 
 \### Nuestro "Parche" Sostenible
 
