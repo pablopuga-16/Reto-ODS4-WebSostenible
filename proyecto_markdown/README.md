@@ -7,7 +7,7 @@
 ### Funcionalidades Principales
 1. [cite_start]**Funcionalidad 1:** [Ejemplo: Registro de alumnos y profesores con perfiles específicos][cite: 47].
 2. [cite_start]**Funcionalidad 2:** [Ejemplo: Chat de bajas emisiones de datos para consultas rápidas][cite: 48].
-3. [cite_start]**Funcionalidad 3:** [Ejemplo: Repositorio de materiales educativos en formato de texto ligero][cite: 49].
+
 
 ### Entidades de Datos Básicas
 | Entidad | Descripción | Ejemplo de datos a guardar |
